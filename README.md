@@ -1,6 +1,6 @@
 <!-- Typing Animation -->
 
-<h1 align="center">Hi 👋, I'm Akash D Shetty</h1>
+<h1 align="center">Hi 👋, I'm Akash M D</h1>
 <h3 align="center">🚀 AI/ML Developer | Cybersecurity Enthusiast | Full-Stack Builder</h3>
 
 <p align="center">

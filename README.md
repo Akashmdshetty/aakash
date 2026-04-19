@@ -35,14 +35,7 @@
 * 🔹 `Low-Label-Satellite-Intelligence-System`
   ➡️ Efficient ML models trained with minimal labeled data
 
----
 
-### 🤖 ML Fusion Experiments
-
-* 🔹 `36_ML_FUSION`
-  ➡️ Combining multiple ML approaches for better performance
-
----
 
 ### 🌱 Eco & Social Impact
 

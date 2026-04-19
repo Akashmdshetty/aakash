@@ -1,92 +1,124 @@
-# Hi 👋, I'm Akash M D
+<!-- Typing Animation -->
 
-🚀 **AI/ML Developer | Cybersecurity Enthusiast | Full-Stack Builder**
+<h1 align="center">Hi 👋, I'm Akash D Shetty</h1>
+<h3 align="center">🚀 AI/ML Developer | Cybersecurity Enthusiast | Full-Stack Builder</h3>
 
-I build intelligent systems focused on **fraud detection, security, and real-world problem solving**.
-My work combines Machine Learning, NLP, and web technologies to create practical, scalable solutions.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Building+AI-powered+Security+Systems;Machine+Learning+%7C+NLP+%7C+Web+Development;Turning+Ideas+Into+Real+Projects;Hackathon+Driven+Developer" />
+</p>
 
+---
 
+## 🧠 About Me
 
-## 🔥 About Me
+* 🛡️ Building **Fraud Detection & Cybersecurity Systems**
+* 🤖 Working with **Machine Learning & NLP (TF-IDF, Scikit-learn)**
+* ⚡ Love **hackathons & rapid prototyping**
+* 🌱 Exploring **real-world AI applications**
+* 🎯 Focused on **impactful, scalable solutions**
 
-* 💡 Passionate about solving real-world problems using AI
-* 🛡️ Focused on fraud detection & cybersecurity systems
-* ⚡ Experienced in building projects under hackathon pressure
-* 🌱 Continuously learning and experimenting with ML & new technologies
-
-
-### 🛰️ Low-Label Satellite Intelligence System
-
-* ML system designed to work with **minimal labeled data**
-* Focus on efficient learning and real-world applicability
-
+---
 
 ## 🚀 Featured Projects
 
 ### 🛡️ Fraud & Phishing Detection Systems
 
-* `job-detector` | `job-scam-detector` | `phishing-detector`
-* Built using **Machine Learning + NLP (TF-IDF)**
-* Designed to detect fraudulent job postings and phishing attempts
+* 🔹 `job-detector`
+* 🔹 `job-scam-detector`
+* 🔹 `phishing-detector`
+  ➡️ ML + NLP systems designed to detect scams and fraudulent content
 
+---
 
+### 🛰️ Low-Label Satellite Intelligence System
+
+* 🔹 `Low-Label-Satellite-Intelligence-System`
+  ➡️ Efficient ML models trained with minimal labeled data
+
+---
 
 ### 🤖 ML Fusion Experiments
 
-* `36_ML_FUSION`
-* Exploring combinations of ML models and approaches
+* 🔹 `36_ML_FUSION`
+  ➡️ Combining multiple ML approaches for better performance
 
+---
 
+### 🌱 Eco & Social Impact
 
-### 🌱 Eco & Social Impact Projects
+* 🔹 `eco-friend`
+* 🔹 `ecowise-project`
+  ➡️ Projects focused on sustainability and awareness
 
-* `eco-friend`, `ecowise-project`
-* Focused on sustainability and awareness
+---
 
+### 🌐 Web & Interactive Apps
 
+* 🔹 `interactive-map`
+* 🔹 `crypto-wallet-newbies`
+* 🔹 `portfolio`
 
-### 🌐 Web & Interactive Applications
-
-* `interactive-map`
-* `crypto-wallet-newbies`
-* `portfolio`
-
-
+---
 
 ### 💼 Industry Experience
 
-* `forage-midas` (JPMC Software Engineering Simulation)
-* Applied real-world software engineering practices
+* 🔹 `forage-midas` (JPMC Software Engineering Simulation)
+  ➡️ Real-world engineering practices & problem solving
 
-
+---
 
 ## 🛠️ Tech Stack
 
-* **Languages:** Python, JavaScript, Java
-* **AI/ML:** Machine Learning, NLP, TF-IDF, Scikit-learn
-* **Web:** HTML, CSS, Frontend Development
-* **Concepts:** Cybersecurity, Virtualization Basics
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,java,html,css,sklearn" />
+</p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Machine%20Learning-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/NLP-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/TF--IDF-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Cybersecurity-red?style=for-the-badge" />
+</p>
 
+---
 
-## 🎯 What I’m Focused On
+## 📊 GitHub Stats
 
-* Building **AI-powered security systems**
-* Developing **real-world ML applications**
-* Creating **impactful and scalable projects**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Akashmdshetty&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akashmdshetty&theme=tokyonight" />
+</p>
 
+---
 
-## 📈 GitHub Stats
+## 🧩 Contribution Graph
 
-![Akash's GitHub stats](https://github-readme-stats.vercel.app/api?username=Akashmdshetty\&show_icons=true)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Akashmdshetty&theme=tokyo-night" />
+</p>
 
+---
 
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Akashmdshetty/Akashmdshetty/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
 
 ## 📫 Connect With Me
 
-* GitHub: https://github.com/Akashmdshetty
+<p align="center">
+  <a href="https://github.com/Akashmdshetty">
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" />
+  </a>
+</p>
 
+---
 
+## ⚡ Quote
 
-⚡ *"I don’t just learn technology — I build with it."*
-
+<p align="center">
+  <b>"I don’t just learn technology — I build systems that solve real problems."</b>
+</p>

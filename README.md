@@ -1,4 +1,4 @@
-# Hi 👋, I'm Akash D Shetty
+# Hi 👋, I'm Akash M D
 
 🚀 **AI/ML Developer | Cybersecurity Enthusiast | Full-Stack Builder**
 

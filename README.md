@@ -28,7 +28,7 @@
 * 🔹 `phishing-detector`
   ➡️ ML + NLP systems designed to detect scams and fraudulent content
 
----
+
 
 ### 🛰️ Low-Label Satellite Intelligence System
 
